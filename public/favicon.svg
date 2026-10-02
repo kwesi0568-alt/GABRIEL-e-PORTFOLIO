@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Gabriel Atta">
+  <rect width="32" height="32" rx="7" fill="#2A5C50"/>
+  <path
+    fill="none"
+    stroke="#F3EEE6"
+    stroke-width="3.2"
+    stroke-linecap="square"
+    d="M21.4 10.1A7.4 7.4 0 1 0 21.4 21.9"
+  />
+  <rect x="15.6" y="14.4" width="8.6" height="3.2" fill="#F3EEE6"/>
+</svg>
